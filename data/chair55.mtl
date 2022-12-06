@@ -1,0 +1,22 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  2.00.1211
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl straw
+Ka 0.545098 0.545098 0.545098
+Kd 0.498039 0.498039 0.498039
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 4
+map_Kd STAXYA.jpg
+
+newmtl wood1
+Ka 0.407843 0.407843 0.407843
+Kd 0.407843 0.407843 0.407843
+Ks 0.113725 0.113725 0.113725
+illum 2
+Ns 4
+map_Kd WOOD1.jpg
